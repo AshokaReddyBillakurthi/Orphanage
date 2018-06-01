@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Orphanage Registration"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Orphanage Name"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtOrphanageName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:textColor="@color/darkgray"
+                    android:hint=""
+                    android:inputType="text"
+                    android:typeface="serif"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Orphanage Govt Registration Number"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtOrGovtRegNo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:textColor="@color/darkgray"
+                    android:hint=""
+                    android:typeface="serif"
+                    android:inputType="text"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Manager Name"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtManagerName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:textColor="@color/darkgray"
+                    android:hint=""
+                    android:inputType="text"
+                    android:typeface="serif"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Number of Kids in Orphanage"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtNoOfKids"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:textColor="@color/darkgray"
+                    android:hint=""
+                    android:inputType="text"
+                    android:typeface="serif"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:typeface="serif"
+                    android:text="Phone #1"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtPhoneNo_One"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"
+                    android:padding="10dp"
+                    android:hint=""
+                    android:inputType="phone"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Phone #2"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtPhoneNo_Two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:hint=""
+                    android:textColor="@color/darkgray"
+                    android:inputType="phone"
+                    android:typeface="serif"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email ID"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:textColor="@color/darkgray"
+                    android:hint=""
+                    android:typeface="serif"
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Social Media/WebSite Links"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"/>
+                <EditText
+                    android:id="@+id/edtSocialLinks"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/rect_bg"
+                    android:padding="10dp"
+                    android:hint=""
+                    android:inputType="text"
+                    android:typeface="serif"
+                    android:textColor="@color/darkgray"
+                    android:textColorHint="@color/litegray"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llSubmit"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:padding="5dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="@color/colorPrimary"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Submit"
+                    android:textStyle="bold"
+                    android:typeface="serif"
+                    android:textColor="@color/white"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Register"
+        android:typeface="serif"
+        android:textSize="16sp"
+        android:textColor="@color/darkgray"/>
+
+</LinearLayout>

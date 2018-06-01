@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Orphanage</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="error_message">Oops! Something went wrong</string>
+    <string name="address">The Chavadi Child Welfare Society\n(poor students ashram)
+        \n\nPlot No. 224, Telecom Nagar(Extn.),
+        Gachibowlli,\nHyderabad-500032,\nPh:040-65301431</string>
+
+    <string name="aboutus">Our orphan children are the very heart of our mission.
+        Though all come from destitute or desperate situations, some as far away as Orissa,
+        Sikkim or Assam, they are all cared for as members of our large family and treated
+        as the beautiful individuals that they are. As with all children worldwide,
+        each boy and girl comes to us with their own unique dreams, passions and talents.
+        Our job is to develop the whole person, not simply feed and clothe a needy child.
+        On some basic levels, our orphan children are given three nutritious meals
+        each day as well as morning and afternoon tea—with the occasional snacks
+        such as ice cream, chips and “gol guppa” (a kid favorite) added just for fun.
+        Meals are eaten as a family in our dining room where children,
+        staff and volunteers come together to give thanks.</string>
+
+    <string name="ourmission">To fulfill the basic needs for Orphanages across India.
+        \n\nTo fulfill the basic needs like Food, Shelter,Clothing and Education for Kids
+        in Orphanages across India.\n\nThe Good Shepherd Agricultural Mission is an independent,
+        non-governmental, social development organization that has been providing
+        support to those in need. ‘The Mission’ works in an array of areas,
+        support to lepers, vocational training, education, disaster relief etc.
+        but it’s primary focus is the care and protection of orphan children.
+        The Mission works hard to provide a loving home and family for every child
+        in its care working hard to promote family relationships and impart a spirit of
+        responsibility in every member of the organization.</string>
+
+    <string name="ourwork">Our main area of work is fulfilling the needs of the Orphanages.
+        On reguler basis we post the requirements from the Orphanages and you can process
+        requirements of your choice. Apart from the listed requirements you can donate
+        in any other form and also financially aid these Orphanages.</string>
+
+</resources>

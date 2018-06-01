@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/ApplicationDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/ApplicationListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/ExServiceManDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/ExServiceManListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/ExServiceManRegistrationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/MatrimonialVerificationApplicationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/MyCompliaintsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/PermissionInstructionActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/UserDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/UserListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/UserRegistrationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/ApplicationsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/ChatsListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/DistrictAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/DivisionPoliceStationAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/ExServiceManListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/ExServiceManPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/MenuListAdaper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/StateAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/SubDivisionAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/adapters/UserListAdpter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/custom/CustomDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/AppDataHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/ApplicationHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/DatabaseHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/DistrictModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/UserDataHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/database/XServiceManDataHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/AdminDashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/AdminFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/ExServiceManListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/UserDashBoardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/UserFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/UserProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/fragments/XServiceManFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/AddressModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/DistrictModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/DivisionPoliceStationModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/ExServiceMan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/StatesModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/model/SubDivisionModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/services/SyncDataResultReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/services/SyncDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/utils/ApiServiceConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/utils/AppConstents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/utils/DataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/java/com/techouts/pcomplaints/widget/CircleTransform.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_application_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_application_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_ex_service_man_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_ex_service_man_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_my_applications.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_service_man.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_services.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/activity_user_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/application_list_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/end_user_list_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/fragment_admin.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/fragment_ex_service_man_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/fragment_user.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/fragment_userprofile.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/list_menu_child_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/user_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/layout/xserviceman_list_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/menu/bottom_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/PolicePermissions/app/src/main/res/menu/bottomnavigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/data/analytics/AdobeAnalyticUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/data/analytics/AnalyticsTracker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/data/analytics/TvcInstallReferrer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/data/analytics/tags/AdobeAnalyticsEventType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/configurablepages/widgets/LinkNavigationHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/configurablepages/widgets/WidgetsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/login/LoginSignUpActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/login/SignInFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/myaccount/MyAccountActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/payment/PaymentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/pdp/FCCProductDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/pdp/ProductDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/plp/ProductListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/shoppingbag/MyWishListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/splash/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/stores/CitySelectionActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/ShoppersStop/ShoppersStop/app/src/main/java/com/shoppersstop/apps/ui/stores/HomeStoreLandingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/ApplicationDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/DashBoardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/EndUserProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/adapters/AssignXServiceManAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/constents/AppConstents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/AppliedServicesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/EndUserRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/FilterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/ServicesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/XServiceManRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/XServiceMansListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/model/DataModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/java/com/xpoliceservices/app/utils/DataUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/res/layout/activity_dash_board.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/TechoutApplications/XPoliceServices/app/src/main/res/layout/layout_assign_xserviceman.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/DashBoardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/OrphanageApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/adapters/DashBoardAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/adapters/FeatureCharitiesAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/adapters/GalleryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/adapters/MenuItemAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/adapters/MyDonationsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/AboutUsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/ContactUsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/DashBoardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/DonarRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/DonateFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/DonorRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/FeatureCharities.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/FeatureCharitiesDetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/FeatureCharitiesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/GalleryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/MyAccountFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/MyDonationsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/MyProfileFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/OurMissionFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/OurWorkFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/RegisterFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/ThankyouFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/fragments/VolunteerRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/model/MenuItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/model/OrphanageRegistrationModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/utils/AppConstents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/utils/DataManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/orphanage/apps/utils/DialogUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_in_left.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_in_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_out_left.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_out_right.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_up_in.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/anim/slide_up_out.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/rect_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rect_button_blue_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_dash_board.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/common_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/feature_charities_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_aboutus.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_contactus.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_donarregistration.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_donate.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_feature_charitie_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_featurec_charities.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_gallery.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_myaccount.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_mydonations.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_myprofile.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_ourmission.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_ourwork.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_register.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_thankyou.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_volunteer_registration.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/gallery_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/menu_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/mydonations_list_item_cell.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/bottomnavigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/DashBoardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/RegistrationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/XPoliceServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/adapters/MenuAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/constents/AppConstents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/BaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/EndUserRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/fragments/XServiceManRegistrationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/java/com/xpoliceservices/app/utils/PreferenceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/activity_dash_board.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/activity_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/common_header.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/layout/menu_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/menu/bottom_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XPoliceServices/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
